@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="770768c7-a6c3-44eb-a832-f1d23106c7ec" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UHO7cV0Ko7mBh6nk0R7qNmqkHM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/JLayer1.0.1/jl1.0.1.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="22" />
+      <command value="2" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Banghakmain">
+    <configuration name="Banghakmain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Banghakmain" />
+      <module name="Tutorial4-1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mainmusic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mainmusic" />
+      <module name="Tutorial4-1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MusicPlayer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MusicPlayer" />
+      <module name="Tutorial4-1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exercise" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercise" />
+      <module name="Tutorial4-1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mu" />
+      <module name="Tutorial4-1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Banghakmain" />
+        <item itemvalue="Application.Mainmusic" />
+        <item itemvalue="Application.exercise" />
+        <item itemvalue="Application.mu" />
+        <item itemvalue="Application.MusicPlayer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="770768c7-a6c3-44eb-a832-f1d23106c7ec" name="Default Changelist" comment="" />
+      <created>1575009887235</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575009887235</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="353" y="135" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1576423241916">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="353" y="135" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1576423241916" />
+    <state x="465" y="193" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1575893173308">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="465" y="193" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1575893173308" />
+    <state x="2583" y="479" width="417" height="243" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1575362442908">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2583" y="479" width="417" height="243" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1575362442908" />
+    <state x="413" y="109" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1576460138336">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="109" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1576460138336" />
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog" timestamp="1575195019630">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1575195019630" />
+    <state x="763" y="208" key="FileChooserDialogImpl" timestamp="1575895076588">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="2572" y="350" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1575357528687" />
+    <state x="763" y="208" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1575895076588" />
+    <state width="1877" height="318" key="GridCell.Tab.0.bottom" timestamp="1576566344752">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1323" height="570" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1576055421127" />
+    <state width="1877" height="318" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1576566344752" />
+    <state width="1323" height="570" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1576488037933" />
+    <state width="1877" height="318" key="GridCell.Tab.0.center" timestamp="1576566344751">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1323" height="570" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1576055421126" />
+    <state width="1877" height="318" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1576566344751" />
+    <state width="1323" height="570" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1576488037933" />
+    <state width="1877" height="318" key="GridCell.Tab.0.left" timestamp="1576566344751">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1323" height="570" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1576055421126" />
+    <state width="1877" height="318" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1576566344751" />
+    <state width="1323" height="570" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1576488037933" />
+    <state width="1877" height="318" key="GridCell.Tab.0.right" timestamp="1576566344752">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1323" height="570" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1576055421126" />
+    <state width="1877" height="318" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1576566344752" />
+    <state width="1323" height="570" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1576488037933" />
+    <state width="1457" height="550" key="GridCell.Tab.1.bottom" timestamp="1576062872052">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1457" height="550" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1576062872052" />
+    <state width="1323" height="222" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1575193044397" />
+    <state width="1457" height="550" key="GridCell.Tab.1.center" timestamp="1576062872052">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1457" height="550" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1576062872052" />
+    <state width="1323" height="222" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1575193044397" />
+    <state width="1457" height="550" key="GridCell.Tab.1.left" timestamp="1576062872052">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1457" height="550" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1576062872052" />
+    <state width="1323" height="222" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1575193044397" />
+    <state width="1457" height="550" key="GridCell.Tab.1.right" timestamp="1576062872052">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1457" height="550" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1576062872052" />
+    <state width="1323" height="222" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1575193044397" />
+    <state x="213" y="0" key="SettingsEditor" timestamp="1575895131560">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="1625" y="7" key="SettingsEditor/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1575442833216" />
+    <state x="213" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1575895131560" />
+    <state x="2415" y="137" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1575022612603">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2415" y="137" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1575022612603" />
+    <state x="1650" y="208" width="1166" height="562" key="dock-window-1" timestamp="1575950033728">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1650" y="208" width="1166" height="562" key="dock-window-1/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1575950033728" />
+    <state x="1997" y="242" key="new project wizard" timestamp="1575353478637">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1997" y="242" key="new project wizard/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1575353478637" />
+    <state x="674" y="0" key="refactoring.ChangeSignatureDialog" timestamp="1576418293772">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="2314" y="192" key="refactoring.ChangeSignatureDialog/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1575959106498" />
+    <state x="674" y="0" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1576418293772" />
+    <state x="430" y="115" width="672" height="677" key="run.anything.popup" timestamp="1576451117524">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="1970" y="164" width="945" height="968" key="run.anything.popup/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1575536266281" />
+    <state x="430" y="115" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1576451117524" />
+    <state x="1911" y="288" width="672" height="678" key="search.everywhere.popup" timestamp="1575976469806">
+      <screen x="1366" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1911" y="288" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/1366.0.1920.1040@1366.0.1920.1040" timestamp="1575976469806" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Tutorial4_1$Banghakmain.ic" NAME="Banghakmain Coverage Results" MODIFIED="1575014221013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
